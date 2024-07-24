@@ -1,6 +1,6 @@
 [
     {
-        "nome": "Eric",
+        "nome": "Eric atualizado",
         "email": "eric@eric.com.br",
         "cpf": "123123123",
         "endereco": null
@@ -8,7 +8,7 @@
     {
         "nome": "Eric",
         "email": "eric@eric.com.br",
-        "cpf": "123123123",
+        "cpf": "124124124",
         "endereco": null
     }
 ]
